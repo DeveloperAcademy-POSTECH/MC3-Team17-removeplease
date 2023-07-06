@@ -1,0 +1,581 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A965DD7A2A566874007B201D /* MC3_Team17_ForJaeRinApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A965DD792A566874007B201D /* MC3_Team17_ForJaeRinApp.swift */; };
+		A965DD7C2A566874007B201D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A965DD7B2A566874007B201D /* ContentView.swift */; };
+		A965DD7E2A566876007B201D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A965DD7D2A566876007B201D /* Assets.xcassets */; };
+		A965DD812A566876007B201D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A965DD802A566876007B201D /* Preview Assets.xcassets */; };
+		A965DD8C2A566876007B201D /* MC3_Team17_ForJaeRinTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A965DD8B2A566876007B201D /* MC3_Team17_ForJaeRinTests.swift */; };
+		A965DD962A566876007B201D /* MC3_Team17_ForJaeRinUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A965DD952A566876007B201D /* MC3_Team17_ForJaeRinUITests.swift */; };
+		A965DD982A566876007B201D /* MC3_Team17_ForJaeRinUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A965DD972A566876007B201D /* MC3_Team17_ForJaeRinUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A965DD882A566876007B201D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A965DD6E2A566874007B201D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A965DD752A566874007B201D;
+			remoteInfo = "MC3-Team17-ForJaeRin";
+		};
+		A965DD922A566876007B201D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A965DD6E2A566874007B201D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A965DD752A566874007B201D;
+			remoteInfo = "MC3-Team17-ForJaeRin";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A965DD762A566874007B201D /* MC3-Team17-ForJaeRin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MC3-Team17-ForJaeRin.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A965DD792A566874007B201D /* MC3_Team17_ForJaeRinApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MC3_Team17_ForJaeRinApp.swift; sourceTree = "<group>"; };
+		A965DD7B2A566874007B201D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A965DD7D2A566876007B201D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A965DD802A566876007B201D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A965DD822A566876007B201D /* MC3_Team17_ForJaeRin.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MC3_Team17_ForJaeRin.entitlements; sourceTree = "<group>"; };
+		A965DD872A566876007B201D /* MC3-Team17-ForJaeRinTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MC3-Team17-ForJaeRinTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A965DD8B2A566876007B201D /* MC3_Team17_ForJaeRinTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MC3_Team17_ForJaeRinTests.swift; sourceTree = "<group>"; };
+		A965DD912A566876007B201D /* MC3-Team17-ForJaeRinUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MC3-Team17-ForJaeRinUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A965DD952A566876007B201D /* MC3_Team17_ForJaeRinUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MC3_Team17_ForJaeRinUITests.swift; sourceTree = "<group>"; };
+		A965DD972A566876007B201D /* MC3_Team17_ForJaeRinUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MC3_Team17_ForJaeRinUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A965DD732A566874007B201D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A965DD842A566876007B201D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A965DD8E2A566876007B201D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A965DD6D2A566874007B201D = {
+			isa = PBXGroup;
+			children = (
+				A965DD782A566874007B201D /* MC3-Team17-ForJaeRin */,
+				A965DD8A2A566876007B201D /* MC3-Team17-ForJaeRinTests */,
+				A965DD942A566876007B201D /* MC3-Team17-ForJaeRinUITests */,
+				A965DD772A566874007B201D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A965DD772A566874007B201D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A965DD762A566874007B201D /* MC3-Team17-ForJaeRin.app */,
+				A965DD872A566876007B201D /* MC3-Team17-ForJaeRinTests.xctest */,
+				A965DD912A566876007B201D /* MC3-Team17-ForJaeRinUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A965DD782A566874007B201D /* MC3-Team17-ForJaeRin */ = {
+			isa = PBXGroup;
+			children = (
+				A965DD792A566874007B201D /* MC3_Team17_ForJaeRinApp.swift */,
+				A965DD7B2A566874007B201D /* ContentView.swift */,
+				A965DD7D2A566876007B201D /* Assets.xcassets */,
+				A965DD822A566876007B201D /* MC3_Team17_ForJaeRin.entitlements */,
+				A965DD7F2A566876007B201D /* Preview Content */,
+			);
+			path = "MC3-Team17-ForJaeRin";
+			sourceTree = "<group>";
+		};
+		A965DD7F2A566876007B201D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				A965DD802A566876007B201D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A965DD8A2A566876007B201D /* MC3-Team17-ForJaeRinTests */ = {
+			isa = PBXGroup;
+			children = (
+				A965DD8B2A566876007B201D /* MC3_Team17_ForJaeRinTests.swift */,
+			);
+			path = "MC3-Team17-ForJaeRinTests";
+			sourceTree = "<group>";
+		};
+		A965DD942A566876007B201D /* MC3-Team17-ForJaeRinUITests */ = {
+			isa = PBXGroup;
+			children = (
+				A965DD952A566876007B201D /* MC3_Team17_ForJaeRinUITests.swift */,
+				A965DD972A566876007B201D /* MC3_Team17_ForJaeRinUITestsLaunchTests.swift */,
+			);
+			path = "MC3-Team17-ForJaeRinUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A965DD752A566874007B201D /* MC3-Team17-ForJaeRin */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A965DD9B2A566876007B201D /* Build configuration list for PBXNativeTarget "MC3-Team17-ForJaeRin" */;
+			buildPhases = (
+				A965DD722A566874007B201D /* Sources */,
+				A965DD732A566874007B201D /* Frameworks */,
+				A965DD742A566874007B201D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "MC3-Team17-ForJaeRin";
+			productName = "MC3-Team17-ForJaeRin";
+			productReference = A965DD762A566874007B201D /* MC3-Team17-ForJaeRin.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A965DD862A566876007B201D /* MC3-Team17-ForJaeRinTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A965DD9E2A566876007B201D /* Build configuration list for PBXNativeTarget "MC3-Team17-ForJaeRinTests" */;
+			buildPhases = (
+				A965DD832A566876007B201D /* Sources */,
+				A965DD842A566876007B201D /* Frameworks */,
+				A965DD852A566876007B201D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A965DD892A566876007B201D /* PBXTargetDependency */,
+			);
+			name = "MC3-Team17-ForJaeRinTests";
+			productName = "MC3-Team17-ForJaeRinTests";
+			productReference = A965DD872A566876007B201D /* MC3-Team17-ForJaeRinTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A965DD902A566876007B201D /* MC3-Team17-ForJaeRinUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A965DDA12A566876007B201D /* Build configuration list for PBXNativeTarget "MC3-Team17-ForJaeRinUITests" */;
+			buildPhases = (
+				A965DD8D2A566876007B201D /* Sources */,
+				A965DD8E2A566876007B201D /* Frameworks */,
+				A965DD8F2A566876007B201D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A965DD932A566876007B201D /* PBXTargetDependency */,
+			);
+			name = "MC3-Team17-ForJaeRinUITests";
+			productName = "MC3-Team17-ForJaeRinUITests";
+			productReference = A965DD912A566876007B201D /* MC3-Team17-ForJaeRinUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A965DD6E2A566874007B201D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					A965DD752A566874007B201D = {
+						CreatedOnToolsVersion = 14.3;
+					};
+					A965DD862A566876007B201D = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = A965DD752A566874007B201D;
+					};
+					A965DD902A566876007B201D = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = A965DD752A566874007B201D;
+					};
+				};
+			};
+			buildConfigurationList = A965DD712A566874007B201D /* Build configuration list for PBXProject "MC3-Team17-ForJaeRin" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A965DD6D2A566874007B201D;
+			productRefGroup = A965DD772A566874007B201D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A965DD752A566874007B201D /* MC3-Team17-ForJaeRin */,
+				A965DD862A566876007B201D /* MC3-Team17-ForJaeRinTests */,
+				A965DD902A566876007B201D /* MC3-Team17-ForJaeRinUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A965DD742A566874007B201D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A965DD812A566876007B201D /* Preview Assets.xcassets in Resources */,
+				A965DD7E2A566876007B201D /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A965DD852A566876007B201D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A965DD8F2A566876007B201D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A965DD722A566874007B201D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A965DD7C2A566874007B201D /* ContentView.swift in Sources */,
+				A965DD7A2A566874007B201D /* MC3_Team17_ForJaeRinApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A965DD832A566876007B201D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A965DD8C2A566876007B201D /* MC3_Team17_ForJaeRinTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A965DD8D2A566876007B201D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A965DD982A566876007B201D /* MC3_Team17_ForJaeRinUITestsLaunchTests.swift in Sources */,
+				A965DD962A566876007B201D /* MC3_Team17_ForJaeRinUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A965DD892A566876007B201D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A965DD752A566874007B201D /* MC3-Team17-ForJaeRin */;
+			targetProxy = A965DD882A566876007B201D /* PBXContainerItemProxy */;
+		};
+		A965DD932A566876007B201D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A965DD752A566874007B201D /* MC3-Team17-ForJaeRin */;
+			targetProxy = A965DD922A566876007B201D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A965DD992A566876007B201D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A965DD9A2A566876007B201D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		A965DD9C2A566876007B201D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "MC3-Team17-ForJaeRin/MC3_Team17_ForJaeRin.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MC3-Team17-ForJaeRin/Preview Content\"";
+				DEVELOPMENT_TEAM = V7Y39HNV38;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuncoffee.MC3-Team17-ForJaeRin";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		A965DD9D2A566876007B201D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "MC3-Team17-ForJaeRin/MC3_Team17_ForJaeRin.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MC3-Team17-ForJaeRin/Preview Content\"";
+				DEVELOPMENT_TEAM = V7Y39HNV38;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuncoffee.MC3-Team17-ForJaeRin";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		A965DD9F2A566876007B201D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V7Y39HNV38;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuncoffee.MC3-Team17-ForJaeRinTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MC3-Team17-ForJaeRin.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MC3-Team17-ForJaeRin";
+			};
+			name = Debug;
+		};
+		A965DDA02A566876007B201D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V7Y39HNV38;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuncoffee.MC3-Team17-ForJaeRinTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MC3-Team17-ForJaeRin.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MC3-Team17-ForJaeRin";
+			};
+			name = Release;
+		};
+		A965DDA22A566876007B201D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V7Y39HNV38;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuncoffee.MC3-Team17-ForJaeRinUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "MC3-Team17-ForJaeRin";
+			};
+			name = Debug;
+		};
+		A965DDA32A566876007B201D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V7Y39HNV38;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuncoffee.MC3-Team17-ForJaeRinUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "MC3-Team17-ForJaeRin";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A965DD712A566874007B201D /* Build configuration list for PBXProject "MC3-Team17-ForJaeRin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A965DD992A566876007B201D /* Debug */,
+				A965DD9A2A566876007B201D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A965DD9B2A566876007B201D /* Build configuration list for PBXNativeTarget "MC3-Team17-ForJaeRin" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A965DD9C2A566876007B201D /* Debug */,
+				A965DD9D2A566876007B201D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A965DD9E2A566876007B201D /* Build configuration list for PBXNativeTarget "MC3-Team17-ForJaeRinTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A965DD9F2A566876007B201D /* Debug */,
+				A965DDA02A566876007B201D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A965DDA12A566876007B201D /* Build configuration list for PBXNativeTarget "MC3-Team17-ForJaeRinUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A965DDA22A566876007B201D /* Debug */,
+				A965DDA32A566876007B201D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A965DD6E2A566874007B201D /* Project object */;
+}
